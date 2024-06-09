@@ -113,6 +113,18 @@ Passionate Junior Front-End Developer specializing in user-centric design and re
 <table style="width:100%;">
   <tr>
     <td style="width:50%;">
+      <a href="https://github.com/abdul-muhaimin-toha/Red-Wave-Client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Red-Wave-Client&theme=radical" alt="Red-Wave-Client" style="width:100%;">
+      </a>
+    </td>
+    <td style="width:50%;">
+      <a href="https://github.com/abdul-muhaimin-toha/Red-Wave-Server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Red-Wave-Server&theme=radical" alt="Red-Wave-Server" style="width:100%;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%;">
       <a href="https://github.com/abdul-muhaimin-toha/Rongmohol-Client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Rongmohol-Client&theme=radical" alt="Rongmohol-Client" style="width:100%;">
       </a>
