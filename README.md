@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="" src="https://media.licdn.com/dms/image/D4D16AQEIeUsDLxtuCg/profile-displaybackgroundimage-shrink_350_1400/0/1714690923432?e=1723075200&v=beta&t=liz_FMXnI8tepztXYIitqG5DMsRUEt5d1H8z7ZPt7GI"  />
-</div>
-
 ###
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Muhaimin Toha
@@ -84,49 +80,6 @@ Passionate Junior Front-End Developer specializing in user-centric design and re
 <a href="https://github.com/abdul-muhaimin-toha">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-muhaimin-toha&&theme=radical&custom_title=Top%20%Languages" alt="Top Languages" style="width:40%;">
 </a>
-
----
-
-<!-- <h3 align="left">🔭 Recent Works</h3>
-
-<table style="width:100%;">
-  <tr>
-    <td style="width:50%;">
-      <a href="https://github.com/abdul-muhaimin-toha/Red-Wave-Client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Red-Wave-Client&theme=radical" alt="Red-Wave-Client" style="width:100%;">
-      </a>
-    </td>
-    <td style="width:50%;">
-      <a href="https://github.com/abdul-muhaimin-toha/Red-Wave-Server">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Red-Wave-Server&theme=radical" alt="Red-Wave-Server" style="width:100%;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:50%;">
-      <a href="https://github.com/abdul-muhaimin-toha/Rongmohol-Client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Rongmohol-Client&theme=radical" alt="Rongmohol-Client" style="width:100%;">
-      </a>
-    </td>
-    <td style="width:50%;">
-      <a href="https://github.com/abdul-muhaimin-toha/Rongmohol-Server">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Rongmohol-Server&theme=radical" alt="Rongmohol-Server" style="width:100%;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:50%;">
-      <a href="https://github.com/abdul-muhaimin-toha/Voluntree-Client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Voluntree-Client&theme=radical" alt="Voluntree-Client" style="width:100%;">
-      </a>
-    </td>
-    <td style="width:50%;">
-      <a href="https://github.com/abdul-muhaimin-toha/Voluntree-server">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-muhaimin-toha&repo=Voluntree-server&theme=radical" alt="Voluntree-server" style="width:100%;">
-      </a>
-    </td>
-  </tr>
- </table> -->
 
 ---
 
