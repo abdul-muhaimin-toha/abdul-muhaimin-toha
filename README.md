@@ -87,7 +87,7 @@ Passionate Junior Front-End Developer specializing in user-centric design and re
 
 ---
 
-<h3 align="left">🔭 Recent Works</h3>
+<!-- <h3 align="left">🔭 Recent Works</h3>
 
 <table style="width:100%;">
   <tr>
@@ -126,7 +126,7 @@ Passionate Junior Front-End Developer specializing in user-centric design and re
       </a>
     </td>
   </tr>
-</table>
+ </table> -->
 
 ---
 
