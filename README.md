@@ -7,14 +7,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Muhaimin Toha
 ===========================================================================================================================================
 
-Junior Front-End Developer
+Junior Software Engineer
 --------------------------
 
 Passionate Junior Front-End Developer specializing in user-centric design and responsive website development. Skilled in optimizing performance and integrating cutting-edge technologies. Committed to building scalable web solutions and adept at collaborating with teams to convey technical concepts to non-technical stakeholders.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [abdulmuhaimintoha.business@gmail.com](mailto:abdulmuhaimintoha.business@gmail.com)
-* 🧠  I'm learning Next.js, TypeScript
+* 🧠  I'm learning Node.js, TypeScript, SQL, MongoDB
 * 🤝  I'm open to collaborating on MERN stack projects
 * ⚡  Passionate about Web Application Development, React, Next, MongoDB, Express, Node
 
