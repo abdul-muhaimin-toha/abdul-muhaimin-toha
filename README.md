@@ -10,6 +10,7 @@ Passionate Junior Front-End Developer specializing in user-centric design and re
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [abdulmuhaimintoha.business@gmail.com](mailto:abdulmuhaimintoha.business@gmail.com)
+* 🌍  [Portfolio](https://abdulmuhaimintoha-portfolio.vercel.app/)
 * 🧠  I'm learning Node.js, TypeScript, SQL, MongoDB
 * 🤝  I'm open to collaborating on MERN stack projects
 * ⚡  Passionate about Web Application Development, React, Next, MongoDB, Express, Node
