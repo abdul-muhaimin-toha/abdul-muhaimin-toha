@@ -66,7 +66,7 @@ Passionate Junior Front-End Developer specializing in user-centric design and re
   <a href="https://www.linkedin.com/in/abdul-muhaimin-toha/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@AbdulMuhaiminToha" target="_blank">
+  <a href="https://www.youtube.com/@abdulmuhaimintoha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://drive.google.com/file/d/1Rigs3xbMf61CDNKzQ0wB8pzuKY0qRYh6/view?usp=sharing" target="_blank">
